@@ -3028,3 +3028,6 @@ margin-bottom: 40px;
 .flexcl h2,.flexcl p,.flexcl a{
   color:#ffffff;
 }
+.column.element{
+  padding: 10px;
+}
