@@ -2995,7 +2995,6 @@ font-weight: var(--font-body-weight-bold);
 }
 }
 .column {
-margin-bottom: 40px;
     position: relative;
 }
 .slick-initialized .slick-slide {
